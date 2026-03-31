@@ -1,4 +1,4 @@
-package search;
+package be.crismartens.searchengine;
 
 import java.io.File;
 import java.io.FileNotFoundException;
